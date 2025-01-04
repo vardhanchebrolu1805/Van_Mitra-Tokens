@@ -1,0 +1,353 @@
+[
+    {
+      "User ID": "User_255",
+      "Plants Planted": 176,
+      "Healthy Plants": 176,
+      "survivalRate": 1.0,
+      "ranking": 1
+    },
+    {
+      "User ID": "User_280",
+      "Plants Planted": 93,
+      "Healthy Plants": 93,
+      "survivalRate": 1.0,
+      "ranking": 2
+    },
+    {
+      "User ID": "User_23",
+      "Plants Planted": 1000,
+      "Healthy Plants": 462,
+      "survivalRate": 0.9978401728,
+      "ranking": 3
+    },
+    {
+      "User ID": "User_36",
+      "Plants Planted": 136,
+      "Healthy Plants": 135,
+      "survivalRate": 0.9926470588,
+      "ranking": 4
+    },
+    {
+      "User ID": "User_35",
+      "Plants Planted": 715,
+      "Healthy Plants": 704,
+      "survivalRate": 0.9846153846,
+      "ranking": 5
+    },
+    {
+      "User ID": "User_159",
+      "Plants Planted": 165,
+      "Healthy Plants": 161,
+      "survivalRate": 0.9757575758,
+      "ranking": 6
+    },
+    {
+      "User ID": "User_175",
+      "Plants Planted": 566,
+      "Healthy Plants": 552,
+      "survivalRate": 0.9752650177,
+      "ranking": 7
+    },
+    {
+      "User ID": "User_24",
+      "Plants Planted": 746,
+      "Healthy Plants": 727,
+      "survivalRate": 0.9745308311,
+      "ranking": 8
+    },
+    {
+      "User ID": "User_142",
+      "Plants Planted": 1000,
+      "Healthy Plants": 168,
+      "survivalRate": 0.9710982659,
+      "ranking": 9
+    },
+    {
+      "User ID": "User_174",
+      "Plants Planted": 66,
+      "Healthy Plants": 64,
+      "survivalRate": 0.9696969697,
+      "ranking": 10
+    },
+    {
+      "User ID": "User_69",
+      "Plants Planted": 347,
+      "Healthy Plants": 336,
+      "survivalRate": 0.9682997118,
+      "ranking": 11
+    },
+    {
+      "User ID": "User_202",
+      "Plants Planted": 686,
+      "Healthy Plants": 664,
+      "survivalRate": 0.9679300292,
+      "ranking": 12
+    },
+    {
+      "User ID": "User_264",
+      "Plants Planted": 237,
+      "Healthy Plants": 229,
+      "survivalRate": 0.9662447257,
+      "ranking": 13
+    },
+    {
+      "User ID": "User_156",
+      "Plants Planted": 1000,
+      "Healthy Plants": 372,
+      "survivalRate": 0.9587628866,
+      "ranking": 14
+    },
+    {
+      "User ID": "User_218",
+      "Plants Planted": 825,
+      "Healthy Plants": 788,
+      "survivalRate": 0.9551515152,
+      "ranking": 15
+    },
+    {
+      "User ID": "User_44",
+      "Plants Planted": 765,
+      "Healthy Plants": 729,
+      "survivalRate": 0.9529411765,
+      "ranking": 16
+    },
+    {
+      "User ID": "User_71",
+      "Plants Planted": 58,
+      "Healthy Plants": 55,
+      "survivalRate": 0.9482758621,
+      "ranking": 17
+    },
+    {
+      "User ID": "User_30",
+      "Plants Planted": 153,
+      "Healthy Plants": 145,
+      "survivalRate": 0.9477124183,
+      "ranking": 18
+    },
+    {
+      "User ID": "User_190",
+      "Plants Planted": 693,
+      "Healthy Plants": 655,
+      "survivalRate": 0.9451659452,
+      "ranking": 19
+    },
+    {
+      "User ID": "User_191",
+      "Plants Planted": 901,
+      "Healthy Plants": 851,
+      "survivalRate": 0.9445061043,
+      "ranking": 20
+    },
+    {
+      "User ID": "User_68",
+      "Plants Planted": 683,
+      "Healthy Plants": 644,
+      "survivalRate": 0.9428989751,
+      "ranking": 21
+    },
+    {
+      "User ID": "User_298",
+      "Plants Planted": 52,
+      "Healthy Plants": 49,
+      "survivalRate": 0.9423076923,
+      "ranking": 22
+    },
+    {
+      "User ID": "User_297",
+      "Plants Planted": 167,
+      "Healthy Plants": 157,
+      "survivalRate": 0.9401197605,
+      "ranking": 23
+    },
+    {
+      "User ID": "User_263",
+      "Plants Planted": 159,
+      "Healthy Plants": 148,
+      "survivalRate": 0.9308176101,
+      "ranking": 24
+    },
+    {
+      "User ID": "User_181",
+      "Plants Planted": 588,
+      "Healthy Plants": 547,
+      "survivalRate": 0.9302721088,
+      "ranking": 25
+    },
+    {
+      "User ID": "User_106",
+      "Plants Planted": 315,
+      "Healthy Plants": 293,
+      "survivalRate": 0.9301587302,
+      "ranking": 26
+    },
+    {
+      "User ID": "User_267",
+      "Plants Planted": 855,
+      "Healthy Plants": 795,
+      "survivalRate": 0.9298245614,
+      "ranking": 27
+    },
+    {
+      "User ID": "User_162",
+      "Plants Planted": 730,
+      "Healthy Plants": 674,
+      "survivalRate": 0.9232876712,
+      "ranking": 28
+    },
+    {
+      "User ID": "User_88",
+      "Plants Planted": 508,
+      "Healthy Plants": 468,
+      "survivalRate": 0.9212598425,
+      "ranking": 29
+    },
+    {
+      "User ID": "User_65",
+      "Plants Planted": 832,
+      "Healthy Plants": 765,
+      "survivalRate": 0.9194711538,
+      "ranking": 30
+    },
+    {
+      "User ID": "User_63",
+      "Plants Planted": 62,
+      "Healthy Plants": 57,
+      "survivalRate": 0.9193548387,
+      "ranking": 31
+    },
+    {
+      "User ID": "User_122",
+      "Plants Planted": 555,
+      "Healthy Plants": 510,
+      "survivalRate": 0.9189189189,
+      "ranking": 32
+    },
+    {
+      "User ID": "User_105",
+      "Plants Planted": 544,
+      "Healthy Plants": 498,
+      "survivalRate": 0.9154411765,
+      "ranking": 33
+    },
+    {
+      "User ID": "User_293",
+      "Plants Planted": 440,
+      "Healthy Plants": 402,
+      "survivalRate": 0.9136363636,
+      "ranking": 34
+    },
+    {
+      "User ID": "User_115",
+      "Plants Planted": 660,
+      "Healthy Plants": 602,
+      "survivalRate": 0.9121212121,
+      "ranking": 35
+    },
+    {
+      "User ID": "User_169",
+      "Plants Planted": 341,
+      "Healthy Plants": 310,
+      "survivalRate": 0.9090909091,
+      "ranking": 36
+    },
+    {
+      "User ID": "User_130",
+      "Plants Planted": 805,
+      "Healthy Plants": 727,
+      "survivalRate": 0.9031055901,
+      "ranking": 37
+    },
+    {
+      "User ID": "User_229",
+      "Plants Planted": 294,
+      "Healthy Plants": 264,
+      "survivalRate": 0.8979591837,
+      "ranking": 38
+    },
+    {
+      "User ID": "User_67",
+      "Plants Planted": 146,
+      "Healthy Plants": 130,
+      "survivalRate": 0.8904109589,
+      "ranking": 39
+    },
+    {
+      "User ID": "User_108",
+      "Plants Planted": 517,
+      "Healthy Plants": 459,
+      "survivalRate": 0.8874296435,
+      "ranking": 40
+    },
+    {
+      "User ID": "User_93",
+      "Plants Planted": 773,
+      "Healthy Plants": 685,
+      "survivalRate": 0.8857760736,
+      "ranking": 41
+    },
+    {
+      "User ID": "User_144",
+      "Plants Planted": 207,
+      "Healthy Plants": 183,
+      "survivalRate": 0.8833333333,
+      "ranking": 42
+    },
+    {
+      "User ID": "User_37",
+      "Plants Planted": 206,
+      "Healthy Plants": 182,
+      "survivalRate": 0.8833003953,
+      "ranking": 43
+    },
+    {
+      "User ID": "User_22",
+      "Plants Planted": 890,
+      "Healthy Plants": 779,
+      "survivalRate": 0.8741573034,
+      "ranking": 44
+    },
+    {
+      "User ID": "User_211",
+      "Plants Planted": 849,
+      "Healthy Plants": 741,
+      "survivalRate": 0.8727915194,
+      "ranking": 45
+    },
+    {
+      "User ID": "User_215",
+      "Plants Planted": 407,
+      "Healthy Plants": 354,
+      "survivalRate": 0.8707581363,
+      "ranking": 46
+    },
+    {
+      "User ID": "User_264",
+      "Plants Planted": 667,
+      "Healthy Plants": 573,
+      "survivalRate": 0.8592208773,
+      "ranking": 47
+    },
+    {
+      "User ID": "User_255",
+      "Plants Planted": 672,
+      "Healthy Plants": 574,
+      "survivalRate": 0.8549618321,
+      "ranking": 48
+    },
+    {
+      "User ID": "User_276",
+      "Plants Planted": 782,
+      "Healthy Plants": 667,
+      "survivalRate": 0.8529391928,
+      "ranking": 49
+    },
+    {
+      "User ID": "User_29",
+      "Plants Planted": 591,
+      "Healthy Plants": 501,
+      "survivalRate": 0.847715736,
+      "ranking": 50
+    }
+  ]
+  
